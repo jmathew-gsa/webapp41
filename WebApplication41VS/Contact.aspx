@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
-    <p>Your contact page for Changed on Github August 2</p>
+    <p>Your contact page for WebApplication41VS</p>
 
     <address>
         One Microsoft Way<br />
